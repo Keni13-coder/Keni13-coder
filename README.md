@@ -5,13 +5,13 @@
 
   <!-- GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=lazy-nightlight&show_icons=true&theme=tokyonight" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazy-nightlight&theme=tokyonight" alt="streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Keni13-coder&show_icons=true&theme=tokyonight" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keni13-coder&theme=tokyonight" alt="streak" />
   </p>
 
   <!-- Топ языков -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-nightlight&layout=compact&theme=tokyonight" alt="top langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keni13-coder&layout=compact&theme=tokyonight" alt="top langs" />
   </p>
 
   <!-- Иконки технологий -->
@@ -54,7 +54,7 @@
 
 ## 📊 Метрики
 
-- ![Metrics](https://metrics.lecoq.io/lazy-nightlight?template=classic&base=header,activity,community,repositories&languages=1&isocalendar=1&notable=1&followup=1)
+- ![Metrics](https://metrics.lecoq.io/Keni13-coder?template=classic&base=header,activity,community,repositories&languages=1&isocalendar=1&notable=1&followup=1)
 
 ---
 
