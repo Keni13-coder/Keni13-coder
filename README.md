@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7B9&center=true&vCenter=true&width=700&lines=👋+Привет,+я+Владислав;🚀+Python+Backend+Developer;🤖+Telegram+Bots+%7C+AI+Experiments;📈+Учусь+и+двигаюсь+к+Tech+Lead" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7B9&center=true&vCenter=true&width=700&lines=👋+Привет,+я+Владислав;🚀+Python+Backend+Developer;🔗+Telegram+Bots+%7C+API+системы;📈+Учусь+и+двигаюсь+к+Tech+Lead" />
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Keni13-coder&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
@@ -37,7 +37,7 @@
 
 
 <p align="center">
-<img src="https://pixabay.com/vectors/fingerprint-digital-cybersecurity-6088316/?utm_source=chatgpt.com" alt="auth-ddd banner" width="500"/>
+<img src="./.github/assets/auth-ddd-banner.jpg" alt="auth-ddd banner" width="700"/>
 </p>
 
 
@@ -62,11 +62,6 @@
 
 ---
 
-## 📊 Метрики
-
-![Metrics](https://metrics.lecoq.io/Keni13-coder?template=classic&base=header,activity,community,repositories&languages=1&isocalendar=1&notable=1&followup=1)
-
----
 
 ## ✉ Контакты
 
