@@ -1,22 +1,17 @@
 <div align="center">
 
-  <!-- Анимированный заголовок -->
+  <!-- Заголовок -->
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7B9&center=true&vCenter=true&width=700&lines=👋+Привет,+я+Владислав;🚀+Python+Backend+Developer;🤖+Telegram+Bots+%7C+AI+Experiments;📈+Учусь+и+двигаюсь+к+Tech+Lead" />
 
-  <!-- GitHub Stats -->
+  <!-- Статистика -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Keni13-coder&show_icons=true&theme=tokyonight" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keni13-coder&theme=tokyonight" alt="streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Keni13-coder&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keni13-coder&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
   </p>
 
-  <!-- Топ языков -->
+  <!-- Вклад (альтернатива пустой сетке) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keni13-coder&layout=compact&theme=tokyonight" alt="top langs" />
-  </p>
-
-  <!-- Иконки технологий -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,linux,git,vscode" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keni13-coder&theme=tokyonight" alt="Contribution graph" />
   </p>
 
 </div>
@@ -54,7 +49,7 @@
 
 ## 📊 Метрики
 
-- ![Metrics](https://metrics.lecoq.io/Keni13-coder?template=classic&base=header,activity,community,repositories&languages=1&isocalendar=1&notable=1&followup=1)
+![Metrics](https://metrics.lecoq.io/Ken13-coder?template=classic&base=header,activity,community,repositories&languages=1&isocalendar=1&notable=1&followup=1)
 
 ---
 
