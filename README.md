@@ -11,8 +11,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keni13-coder&theme=tokyonight" alt="Contribution graph" />
   </p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,linux,git,vscode" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,linux,git,vscode&perline=8&theme=dark" />
   </p>
 
 </div>
