@@ -12,7 +12,7 @@
   </p>
 
   <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,linux,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,linux,git,vscode" />
   </p>
 
 </div>
