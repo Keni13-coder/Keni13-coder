@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=00F7B9&center=true&vCenter=true&width=700&lines=👋+Привет,+я+Владислав;🚀+Python+Backend+Developer;🔗+Telegram+Bots+%7C+API+системы;📈+Учусь+и+двигаюсь+к+Tech+Lead" />
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Keni13-coder&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keni13-coder&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keni13-coder&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keni13-coder&theme=tokyonight" />
   </p>
 
   <p>
