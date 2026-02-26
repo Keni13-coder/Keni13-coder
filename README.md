@@ -12,7 +12,14 @@
   </p>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,redis,docker,linux,git,vscode&perline=8&theme=dark" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white"/>
   </p>
 
 </div>
