@@ -37,7 +37,9 @@
 
 
 <p align="center">
-<img src="./.github/assets/auth-ddd-banner.jpg" alt="auth-ddd banner" width="700"/>
+  <a href="https://github.com/lazy-nightlight/auth-ddd">
+    <img src="./.github/assets/auth-ddd-banner.jpg" alt="auth-ddd banner" width="700"/>
+  </a>
 </p>
 
 
